@@ -2,3 +2,8 @@ Partner 1:
     Name: Nirmal Alla
     Email: nirmal.k.alla@vanderbilt.edu
     vuNetId: allank1
+
+Partner 2:
+    Name: William Henderson
+    Email: william.henderson.1@vanderbilt.edu
+    vuNetId: hendew3
